@@ -1,5 +1,3 @@
-# riteshkhatr08
-
 ## Contact with Me
 
 - Who: (Ritesh Khatri, `@riteshkhatri08`)
