@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JAVA, Kubernetes and Spring Boot**
 
-- 📫 How to reach me **riteshkhatri42@gmail.om**
+- 📫 How to reach me **riteshkhatri42@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
