@@ -19,8 +19,9 @@
 
 
 <p><img align="left" src="https://leetcode.card.workers.dev/riteshkhatri?theme=white&font=baloo" alt="riteshkhatri08" />&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=riteshkhatri08&show_icons=true&locale=en" alt="riteshkhatri08" /></p>
-<p></p>
-<p><br></p>
+
+<p><br></p>  
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshkhatri08&" alt="riteshkhatri08"/>
 &nbsp;
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshkhatri08&show_icons=true&locale=en&layout=compact" alt="riteshkhatri08" /></p>
